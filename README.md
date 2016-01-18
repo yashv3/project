@@ -1,2 +1,2 @@
-# project
+# Project
 Third Year project
